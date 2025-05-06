@@ -7,8 +7,7 @@
 <h2 align="left">About me:</h2>
 
 - 🎓 I'm a 2nd-year student at Saigon University, majoring in Software Engineering, with an GPA of 2.8  
-- 🚀 Currently looking for internship opportunities in **Frontend Development**  
-- 💡 Interested in modern JavaScript frameworks, UI/UX design, and performance optimization  
+- 🎯 Goals: To become a proficient Frontend Developer specializing in modern web technologies. I am currently seeking an internship to apply my skills in real-world projects, and grow into a Full-stack Developer in the near future.
 - 📫 Reach me at **Dai2272005nv@gmail.com**  
 
 <h2 align="left">Connect with me:</h2>
