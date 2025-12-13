@@ -2,13 +2,13 @@
 
 <h2 align="left">Objective:</h2>
 
-<p align="left">As a Frontend Developer intern, I am passionate about building modern, responsive web applications. I have experience using popular frontend frameworks and tools to create clean, maintainable code. I'm eager to contribute to real-world projects, improve my skills, and grow into a professional Full-stack Developer in the near future.</p>
+<p align="left">Enthusiastic Web Developer with a solid foundation in JavaScript, React, Next.js, TypeScript, and Node.js. Experienced in building responsive, user-friendly web applications and optimizing performance for seamless user experiences. Skilled in developing both front-end and back-end features, with a focus on scalable, maintainable code. Eager to contribute to innovative projects, continuously learn new technologies, and grow in a collaborative development environment.</p>
 
 <h2 align="left">About me:</h2>
 
-- 🎓 I'm a 2nd-year student at Saigon University, majoring in Software Engineering, with an GPA of 2.8  
-- 🎯 Goals: To become a proficient Frontend Developer specializing in modern web technologies. I am currently seeking an internship to apply my skills in real-world projects, and grow into a Full-stack Developer in the near future.
-- 📫 Reach me at **Dai2272005nv@gmail.com**  
+- 🎓 I'm a 2nd-year student at Saigon University, majoring in Software Engineering, with a GPA of 2.8  
+- 🎯 Goals: To become a professional Full-stack Developer — currently seeking a Full-stack Intern position to gain real-world experience and strengthen my ReactJS and NodeJS skills  
+- 📫 Reach me at **Dai2272005nv@gmail.com** 
 
 <h2 align="left">Connect with me:</h2>
 
@@ -53,12 +53,4 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-
-<h2 align="left">Skills:</h2>
-
-- 🧠 Full-stack Web Development  
-- 🔗 RESTful API Design and Integration  
-- 🎨 Responsive UI Design using modern CSS frameworks  
-- 🧰 Debugging, Git version control, and teamwork  
-
+</div> 
