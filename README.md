@@ -6,14 +6,14 @@
 
 <h2 align="left">About me:</h2>
 
-- 🎓 I'm a 2nd-year student at Saigon University, majoring in Software Engineering, with a GPA of 2.8  
+- 🎓 I'm a 3rd-year student at Saigon University, majoring in Software Engineering, with a GPA of 3.0  
 - 🎯 Goals: To become a professional Full-stack Developer — currently seeking a Full-stack Intern position to gain real-world experience and strengthen my ReactJS and NodeJS skills  
 - 📫 Reach me at **Dai2272005nv@gmail.com** 
 
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank">
+  <a href="https://linkedin.com/in/thanhdai2005" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://fb.com/thanhdai2005" target="blank">
@@ -27,6 +27,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0; animation: fadeInUp 1.5s ease-out;">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
 </div>
 
 ### 🎨 **Frontend Development**
@@ -44,7 +45,6 @@
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0; animation: fadeInUp 2.1s ease-out;">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
 </div>
 
 ### 🗄️ **Databases**
