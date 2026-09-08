@@ -6,7 +6,7 @@
 
 <h2 align="left">About me:</h2>
 
-- 🎓 I'm a 3rd-year student at Saigon University, majoring in Software Engineering, with a GPA of 3.0  
+- 🎓 I'm a 4th-year student at Saigon University, majoring in Software Engineering, with a GPA of 3.0  
 - 🎯 Goals: To become a professional Full-stack Developer — currently seeking a Full-stack Intern position to gain real-world experience and strengthen my ReactJS and NodeJS skills  
 - 📫 Reach me at **Dai2272005nv@gmail.com** 
 
